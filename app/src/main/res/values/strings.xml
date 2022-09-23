@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="add_items_to_cart">Add Items to Cart</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="rate">Rate</string>
+    <string name="fab_content_description">This fab is used to add new elements to the grocery list</string>
+    <string name="deleteIcon_content_description">This icon used to delete the elements from the grocery list</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="amount">Amount</string>
+    <string name="grocery_list">Grocery List</string>
+</resources>
